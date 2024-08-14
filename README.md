@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Configuring Access Control List | <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Configuring Access Control List</a>|
 | Port Security Configuration         | <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>|
 | Nmap Scanning Project      | <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Nikto Web Server Scanning Project                  | <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -65,3 +65,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Configuring Access Control List</a>
 - <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>
 - <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>
+- <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>
