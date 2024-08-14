@@ -17,6 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Nmap Scanning Project      | <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>|
 | Nikto Web Server Scanning Project                  | <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>|
 | TCPDUMP Analysis | <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>|
+| Wireshark Network Analysis        | <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshard Network Analysis</a>|
 
 ## Tools
 
@@ -67,3 +68,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>
 - <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>
 - <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>
+- <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshard Network Analysis</a>
