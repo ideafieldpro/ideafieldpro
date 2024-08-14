@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Firwall Lab Project          | <a href="https://github.com/ideafieldpro/FirewallLab">Firewall Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Pfsense Firewall Configuration          | <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>|
+| Configuring Access Control List | <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Configuring Access Control List</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -61,4 +61,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/ideafieldpro/FirewallLab">Firewall Lab</a>
+- <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>
+- <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Configuring Access Control List</a>
