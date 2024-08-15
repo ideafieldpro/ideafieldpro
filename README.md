@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Splunk SIEM Analysis                | <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>|
 | Pfsense Firewall Configuration          | <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>|
 | Access Control List Configuration | <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>|
 | Port Security Configuration         | <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>|
@@ -66,6 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>
 - <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>
 - <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>
 - <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>
