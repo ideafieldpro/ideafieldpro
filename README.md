@@ -24,6 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Burp Suite Web Application Testing    | <a href="https://github.com/ideafieldpro/BurpSuiteWebAppTesting/tree/main">Burp Suite Web App Testing</a>|
 | Redline Malware Forensics            | <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>|
 | Windows Permission Management        | <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>|
+| Linux OS Hardening                    | <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>|
 
 ## Tools
 
@@ -81,3 +82,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/BurpSuiteWebAppTesting/tree/main">Burp Suite Web App Testing</a>
 - <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>
 - <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>
+- <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>
