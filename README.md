@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | TCPDUMP Analysis | <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>|
 | Wireshark Network Analysis        | <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshark Network Analysis</a>|
 | Metasploit Testing                | <a href="https://github.com/ideafieldpro/MetasploitTesting/tree/main">Metasploit Testing</a>|
+| OWASP ZAP Penetration Testing        | <a href="https://github.com/ideafieldpro/OWASPzapPenTesting/tree/main"> OWASP ZAP Pen Testing</a>|
 
 ## Tools
 
@@ -71,3 +72,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>
 - <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshark Network Analysis</a>
 - <a href="https://github.com/ideafieldpro/MetasploitTesting/tree/main">Metasploit Testing</a>
+- <a href="https://github.com/ideafieldpro/OWASPzapPenTesting/tree/main"> OWASP ZAP Pen Testing</a>
