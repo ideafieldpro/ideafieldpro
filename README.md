@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Audit                    | <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>|
 | Incident Handler's Journal        | <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>|
 | Splunk SIEM Analysis                | <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>|
+| Active Directory with GPO            | <a href="https://github.com/ideafieldpro/ADwithGPO">Active Directory with GPO</a>|
 | Pfsense Firewall Configuration          | <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>|
 | Access Control List Configuration | <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>|
 | Port Security Configuration         | <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>|
@@ -27,7 +28,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Redline Malware Forensics            | <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>|
 | Windows Permission Management        | <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>|
 | Linux OS Hardening                    | <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>|
-| Active Directory with GPO            | <a href="https://github.com/ideafieldpro/ADwithGPO">AD with GPO</a>|
 
 ## Tools
 
@@ -75,6 +75,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>
 - <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>
 - <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>
+- <a href="https://github.com/ideafieldpro/ADwithGPO">Active Directory with GPO</a>
 - <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>
 - <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>
 - <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>
@@ -88,4 +89,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>
 - <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>
 - <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>
-- <a href="https://github.com/ideafieldpro/ADwithGPO">AD with GPO</a>
+
