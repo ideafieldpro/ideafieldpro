@@ -7,9 +7,9 @@ Adaptable and motivated SOC Analyst with a strong interest in cybersecurity and 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects
 
-| Project Name                                         | Project Links        |
+| Name                                         | Links        |
 |-----------------------------------------------|----------------------------|
 | ELK Stack Monitoring & Response                   | <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>|
 | Security Audit                    | <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>|
