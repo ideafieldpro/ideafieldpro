@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Name                                         | Links        |
 |-----------------------------------------------|----------------------------|
+| SOAR with EDR                   | <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>|
 | ELK Stack Monitoring & Response                   | <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>|
 | Security Audit                    | <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>|
 | Incident Handler's Journal        | <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>|
@@ -74,6 +75,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>
 - <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>
 - <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>
 - <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>
