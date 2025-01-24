@@ -51,6 +51,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Redline-FF0000?&style=for-the-badge&logo=Redline&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Limacharlie-005571?&style=for-the-badge&logo=Limacharlie&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Tines-6A0DAD?&style=for-the-badge&logo=Tines&logoColor=white" />
 </div>
 
 ### SIEM
