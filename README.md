@@ -9,27 +9,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-| Name                                         | Links        |
-|-----------------------------------------------|----------------------------|
-| SOAR with EDR                   | <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>|
-| ELK Stack Monitoring & Response                   | <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>|
-| Security Audit                    | <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>|
-| Incident Handler's Journal        | <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>|
-| Splunk SIEM Analysis                | <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>|
-| Active Directory with GPO            | <a href="https://github.com/ideafieldpro/ADwithGPO">Active Directory with GPO</a>|
-| pfSense Firewall Configuration          | <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>|
-| Access Control List Configuration | <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>|
-| Port Security Configuration         | <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>|
-| Nmap Scanning      | <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>|
-| Nikto Web Server Scanning Project                  | <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>|
-| TCPDUMP Analysis | <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>|
-| Wireshark Network Analysis        | <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshark Network Analysis</a>|
-| Metasploit Testing                | <a href="https://github.com/ideafieldpro/MetasploitTesting/tree/main">Metasploit Testing</a>|
-| OWASP ZAP Penetration Testing        | <a href="https://github.com/ideafieldpro/OWASPzapPenTesting/tree/main"> OWASP ZAP Pen Testing</a>|
-| Burp Suite Web Application Testing    | <a href="https://github.com/ideafieldpro/BurpSuiteWebAppTesting/tree/main">Burp Suite Web App Testing</a>|
-| Redline Malware Forensics            | <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>|
-| Windows Permission Management        | <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>|
-| Linux OS Hardening                    | <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>|
+- <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>
+- <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>
+- <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>
+- <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>
+- <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>
+- <a href="https://github.com/ideafieldpro/ADwithGPO">Active Directory with GPO</a>
+- <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>
+- <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>
+- <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>
+- <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>
+- <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>
+- <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>
+- <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshark Network Analysis</a>
+- <a href="https://github.com/ideafieldpro/MetasploitTesting/tree/main">Metasploit Testing</a>
+- <a href="https://github.com/ideafieldpro/OWASPzapPenTesting/tree/main"> OWASP ZAP Pen Testing</a>
+- <a href="https://github.com/ideafieldpro/BurpSuiteWebAppTesting/tree/main">Burp Suite Web App Testing</a>
+- <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>
+- <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>
+- <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>
 
 ## Tools
 
@@ -79,24 +77,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
-## Projects
-- <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>
-- <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>
-- <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>
-- <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>
-- <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>
-- <a href="https://github.com/ideafieldpro/ADwithGPO">Active Directory with GPO</a>
-- <a href="https://github.com/ideafieldpro/PfsenseFirewallConfig/tree/main">Firewall Configuration</a>
-- <a href="https://github.com/ideafieldpro/ConfiguringAccessControlList">Access Control List Config</a>
-- <a href="https://github.com/ideafieldpro/PortSecurity/tree/main">Port Security</a>
-- <a href="https://github.com/ideafieldpro/NmapScanning/tree/main">Nmap Scanning</a>
-- <a href="https://github.com/ideafieldpro/NiktoWebserverScan/tree/main">Nikto Web Server Scan</a>
-- <a href="https://github.com/ideafieldpro/tcpdumpAnalysis/tree/main">TCPDUMP Analysis</a>
-- <a href="https://github.com/ideafieldpro/WiresharkAnalysis/tree/main">Wireshark Network Analysis</a>
-- <a href="https://github.com/ideafieldpro/MetasploitTesting/tree/main">Metasploit Testing</a>
-- <a href="https://github.com/ideafieldpro/OWASPzapPenTesting/tree/main"> OWASP ZAP Pen Testing</a>
-- <a href="https://github.com/ideafieldpro/BurpSuiteWebAppTesting/tree/main">Burp Suite Web App Testing</a>
-- <a href="https://github.com/ideafieldpro/RedlineMalwareForensics/tree/main">Redline Malware Forensics</a>
-- <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>
-- <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>
