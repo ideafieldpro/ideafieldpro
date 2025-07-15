@@ -1,7 +1,7 @@
 # Hello, I'm Craig
 <a href="https://www.linkedin.com/in/sheffieldcraig/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Adaptable and motivated SOC Analyst with a strong interest in cybersecurity and information protection techniques. Skilled in analyzing and monitoring network traffic and security incidents. Proven track record of working effectively as a team player to contribute to the overall success of Security Operations Centers.
+Adaptable and motivated Cybersecurity Analyst with a strong interest in GenAI and information protection techniques. Skilled in analyzing and monitoring network traffic and security incidents. Proven track record of working effectively as a team player to contribute to the overall.
 
 ## Objective
 
@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <a href="https://github.com/ideafieldpro/SOAR-with-EDR/tree/main">SOAR with EDR</a>
 - <a href="https://github.com/ideafieldpro/ElkStack-Monitor-Response/tree/main">ELK Stack Monitoring & Response</a>
+- <a href="https://github.com/ideafieldpro/genAI_threatAssessment">GenAI Threat Assessment</a>
 - <a href="https://github.com/ideafieldpro/SecurityAudit/tree/main">Security Audit</a>
 - <a href="https://github.com/ideafieldpro/IncidentHandlerJournal/tree/main">Incident Handler's Journal</a>
 - <a href="https://github.com/ideafieldpro/SplunkSIEM_analysis/tree/main">Splunk SIEM Analysis</a>
