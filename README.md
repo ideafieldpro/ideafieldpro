@@ -30,6 +30,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ideafieldpro/WindowsPermissions/tree/main">Windows Permission Management</a>
 - <a href="https://github.com/ideafieldpro/LinuxOShardening/tree/main">Linux OS Hardening</a>
 - <a href="https://github.com/ideafieldpro/onboarding-SOP-MS365">M365 Onboarding</a>
+- <a href="https://github.com/ideafieldpro/secure_home_with_IOT/tree/main">Securing Home Networks with IOT</a>
 
 ## CTFs
 
