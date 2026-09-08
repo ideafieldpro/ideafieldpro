@@ -1,11 +1,11 @@
 # Hello, I'm Craig
 <a href="https://www.linkedin.com/in/sheffieldcraig/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Adaptable and motivated Cybersecurity Analyst with a strong interest in GenAI and information protection techniques. Skilled in analyzing and monitoring network traffic and security incidents. Proven track record of working effectively as a team player to contribute to the overall.
+Adaptable and motivated System Admin with a strong interest in GenAI and information protection techniques. Skilled in analyzing and monitoring network traffic and security incidents. Proven track record of working effectively as a team player to contribute to the overall objectives.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a collaborative team as a Security Engineer and DevSecOps practitioner.
 
 ## Projects
 
